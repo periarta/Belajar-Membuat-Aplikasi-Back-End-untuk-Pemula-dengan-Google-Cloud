@@ -1,8 +1,8 @@
 # Belajar-Membuat-Aplikasi-Back-End-untuk-Pemula-dengan-Google-Cloud
 
-Install terlebih dahulu
+#Install terlebih dahulu
 npm install nodemon --save-dev
 npm install @hapi/hapi
 
-baru jalankan 
+#Baru jalankan 
 npm run start
